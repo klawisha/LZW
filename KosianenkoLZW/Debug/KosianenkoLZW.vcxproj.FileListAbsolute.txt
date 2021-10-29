@@ -1,0 +1,3 @@
+D:\My\Programs\C++\KosianenkoLZW\KosianenkoLZW\Debug\KosianenkoLZW.vcxprojAssemblyReference.cache
+D:\My\Programs\C++\KosianenkoLZW\KosianenkoLZW\Debug\KosianenkoLZW.MyForm.resources
+D:\My\Programs\C++\KosianenkoLZW\KosianenkoLZW\Debug\KosianenkoLZW.vcxproj.GenerateResource.cache
